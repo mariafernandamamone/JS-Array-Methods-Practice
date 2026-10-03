@@ -1,6 +1,6 @@
 # JS Array Methods Practice 🚀
 
-Colección de ejercicios prácticos de JavaScript (ES6+) enfocados en programación funcional, manipulación de arreglos de objetos y transformaciones de datos en entorno Node.js.
+Colección de 45 ejercicios prácticos de JavaScript (ES6+) enfocados en programación funcional, manipulación de arreglos de objetos y transformaciones de datos en entorno Node.js.
 
 ## 📁 Estructura del Proyecto
 
