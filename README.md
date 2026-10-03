@@ -11,9 +11,9 @@ Colección de 45 ejercicios prácticos de JavaScript (ES6+) enfocados en program
 │   ├── empleados.js
 │   ├── artistas.js
 │   └── estudiantes.js
-├── ejercicios-empleados/   
-├── ejercicios-artistas/    
-└── ejercicios-estudiantes/ 
+├── 01-empleados/   
+├── 02-artistas/    
+└── 03-estudiantes/ 
 ```
 
 ## 🛠️ Conceptos y Métodos Aplicados
